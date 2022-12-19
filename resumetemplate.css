@@ -1,0 +1,94 @@
+#col1{
+    background-color: blue;
+    height: 1000px;
+    color: white;
+    font-size: 36px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#web{
+    font-size: 20px;
+    
+}
+#contact{
+    font-size: 24px;
+    background-color: black;
+}
+#add{
+    font-size: 20px;
+    
+}
+#kurnool{
+    font-size: 15px;
+    
+}
+#phone{
+    font-size: 20px;
+    
+}  
+#number{
+    font-size: 15px;
+}
+#email{
+    font-size: 20px;
+}
+#sudha{
+    font-size: 15px;
+}
+#skills{
+    font-size: 24px;
+    background-color: black;
+}
+#pro{
+    font-size: 15px;
+}
+#lang{
+    font-size: 24px;
+    background-color: black;
+}
+#tel{
+    font-size: 15px;
+}
+#col2{
+    margin-top: 20px;
+    height: 1000px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+#hr{
+    margin-top: 65px;
+}
+#work{
+    font-size: 24px;
+    color: #0E2664;
+}
+#we{
+    margin-left: 60px;
+    font-size: 22px;
+}
+#habib{
+    margin-left: 65px;
+    
+}
+#un{
+    margin-left: 120px;
+}
+#education{
+    font-size: 24px;
+    color: #0E2664;
+}
+#bachelor{
+    margin-left: 60px;
+    font-size: 22px;
+}
+#st{
+    margin-left: 65px;
+}
+#certificate{
+    font-size: 24px;
+    color: #0E2664;
+}
+#salesforce{
+    margin-left: 65px;
+    font-size: 22px;
+}
+
